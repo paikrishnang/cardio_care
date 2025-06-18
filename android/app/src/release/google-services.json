@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5667981198",
+    "project_id": "amrita-cardiocare",
+    "storage_bucket": "amrita-cardiocare.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5667981198:android:1ce57ee1d81ba54c3946df",
+        "android_client_info": {
+          "package_name": "org.amritacreate.cardio_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw14DUJc41sanbpWL2JK4KKPdAWtrzAJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
